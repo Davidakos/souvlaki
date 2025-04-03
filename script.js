@@ -1,5 +1,6 @@
-// JavaScript to add some interaction if needed
-document.querySelector('.cta-btn').addEventListener('click', () => {
-    alert('Getting Started!');
-});
+my-website-repo/
+│
+├── index.html
+├── styles.css
+└── README.md (optional)
 
